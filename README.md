@@ -1,0 +1,1 @@
+This App demonstrates using of Java Native Interface to call OpenAlpr library compiled for ARM
